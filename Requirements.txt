@@ -1,6 +1,6 @@
 python==3.11.x
 langchain==0.2.8
-langchain-community==0.2.7
+langchain-community==0.2.9
 langchain-core==0.2.20
 langchain-google-genai==1.0.7
 scikit-learn==1.5.1
