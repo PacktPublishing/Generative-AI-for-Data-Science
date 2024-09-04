@@ -37,4 +37,6 @@ print('F1 score:', f1)
 
 pickle.dump({'X_test': X_test, 
              'y_test': y_test, 
+             'X_train': X_train,
+             'y_train': y_train,
              'f1_score_rf': f1}, open("saved.pk", "wb"))
